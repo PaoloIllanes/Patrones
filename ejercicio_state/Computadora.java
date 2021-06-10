@@ -10,6 +10,8 @@ public class Computadora {
     private MemoriaRAM ram;
     private ArrayList<String> programasAbiertos;
 
+
+
     public IStateComputadora getState() {
         return state;
     }
